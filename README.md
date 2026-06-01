@@ -8,7 +8,7 @@ ___    ____   ____       __            __  _
 
 # AI Detection
 
-> gptzero, undetectable ai, ai detector, ai content detection.
+> gptzero, undetectable ai, ai detector, ai content detection. for Windows
 
 **gptzero** | **ai-detection** | **ai-detector** | **undetectable-ai** | **text-detection** | **ai-bypass**
 
@@ -18,9 +18,9 @@ ___    ____   ____       __            __  _
 
 - gptzero, undetectable ai, ai detector, ai content detection.
 - Full build: undetectable ai, ai detector, ai content detection, gptzero bypass, ai text detection.
-- Platform: Windows macOS
+- Platform: Windows 10/11 x64
 
-**Platform:** Windows macOS
+**Platform:** Windows 10/11 x64
 
 ---
 
