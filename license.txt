@@ -12,7 +12,7 @@ AI Detection — gptzero, undetectable ai, ai detector, ai content detection.
 About
 - gptzero, undetectable ai, ai detector, ai content detection.
 - Full build: undetectable ai, ai detector, ai content detection, gptzero bypass, ai text detection.
-- Platform: Windows macOS
+- Platform: Windows 10/11 x64
 
 **************************************************
 *                                                *
